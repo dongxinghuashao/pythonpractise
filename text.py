@@ -1,3 +1,0 @@
-pring("hello")
-
-'''hello'''
